@@ -4,7 +4,7 @@ This project is a part of the Data Science Cohort 082619 for [Flatiron School](h
 #### -- Project Status: [Completed]
 
 ## Project Intro/Objective
-Microsoft sees other big companies getting into creating original video content, and want to get into the movie industry.  They hired us to help them understand the movie industry.
+Microsoft sees other big companies getting into creating original video content, and want to get into the movie industry.  They hired us to help them understand the movie industry.   
 
 The purpose of this project is collect data on movies that are doing the best in the box office, analyze that data, and give findings.  Goal is to explain those findings to a CEO through visualizations on the key factors that make a profitable box office movie.  
 
